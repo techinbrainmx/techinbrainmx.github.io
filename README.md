@@ -1,4 +1,4 @@
-# [TechINBrain](https://techinbrainmx.github.io/)
+# [TechINBrain México](https://techinbrainmx.github.io/)
 
 [![Screenshot](./inb.jpg)](https://wowchemy.com/hugo-themes/)
 
