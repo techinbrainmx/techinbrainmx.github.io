@@ -1,4 +1,4 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# [TechINBrain](https://techinbrainmx.github.io/)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
